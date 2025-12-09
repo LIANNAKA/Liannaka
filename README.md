@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I'm Liannaka, a data driven and full stack engineer based in India.
+
+I can design, create logic, envision and build things.
+
+If an idea pops into my mind, chances are I'll build it and ship it.
+
+My main tech stack is node.js, html, css, javascript, mySQL. My favorite tools are vscode and canva.
+
+I've got a freelance project to work upon, with a satisfied client.
 <!--
 **LIANNAKA/Liannaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
