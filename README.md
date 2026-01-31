@@ -5,11 +5,9 @@
 💻 My Website: [liannakadadi-portfolio.web.app](https://liannakadadi-portfolio.web.app/)  
 📫 How to reach me: [liannaka.dadi10@gmail.com](mailto:liannaka.dadi10@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liannaka-dadi-59972821b/)
-
 ### 📫 Connect with Me
 
-<p align="center">
+<p>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/liannaka-dadi-59972821b/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
@@ -45,8 +43,7 @@
   <!-- Firebase -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
 </p>
-
-
+---
 I'm Liannaka, a data-driven and full-stack engineer based in India.<br>
 
 I can design, create logic, envision, and build things.<br>
@@ -56,7 +53,7 @@ If an idea pops into my mind, chances are I'll build it and ship it.<br>
 My main tech stack:Python, Node.js, HTML, CSS, JavaScript, MySQL.<br>
 
 Favorite tools: VSCode, Google Collab, Canva.
-
+---
 
 <!--
 **LIANNAKA/Liannaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
