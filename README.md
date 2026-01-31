@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Liannaka
+<center># 👋 Hi, I'm Liannaka </center>
 ![Profile views](https://komarev.com/ghpvc/?username=LIANNAKA&color=blue)
 
-- 🌐 Website: [yourwebsite.com]([https://yourwebsite.com](https://liannakadadi-portfolio.web.app/))
-- ✉️ Email: [youremail@gmail.com](liannaka.dadi10@gmail.com)
+💻 My Website : [yourwebsite.com](https://liannakadadi-portfolio.web.app/)
+📫How to reach me [youremail@gmail.com](liannaka.dadi10@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/username](https://www.linkedin.com/in/liannaka-dadi-59972821b/)
 
