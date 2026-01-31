@@ -15,23 +15,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <!-- Email -->
-  <a href="mailto:liannaka.dadi10@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;
-  <!-- Portfolio Website -->
-  <a href="https://liannakadadi-portfolio.web.app/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Portfolio"/>
-  </a>
-  &nbsp;&nbsp;
-  <!-- GitHub -->
-  <a href="https://github.com/LIANNAKA" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  </a>
 </p>
-
-
 
 <p align="center">
   <!-- C -->
