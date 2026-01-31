@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hi, I'm Liannaka</h1>
 
-<p align="center">
-  ![Profile views](https://komarev.com/ghpvc/?username=LIANNAKA&color=blue)
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=LIANNAKA&color=blue)
 
 <p align="center">
   💻 My Website: <a href="https://liannakadadi-portfolio.web.app/">liannakadadi-portfolio.web.app</a><br>
@@ -42,7 +40,7 @@
 ---
 
 ### 👩‍💻 About Me
-<p align="center">
+<p>
 I'm Liannaka, a data-driven and full-stack engineer based in India.<br>
 I can design, create logic, envision, and build things.<br>
 If an idea pops into my mind, chances are I'll build it and ship it.<br>
@@ -52,8 +50,6 @@ Favorite tools: VSCode, Google Colab, Canva.
 
 ---
 
-
----
 
 <!--
 **LIANNAKA/Liannaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
