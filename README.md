@@ -15,6 +15,9 @@
   &nbsp;&nbsp;
 </p>
 
+---
+
+Languages & Tools:
 <p align="center">
   <!-- C -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
@@ -43,7 +46,11 @@
   <!-- Firebase -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
 </p>
+
 ---
+
+---
+
 I'm Liannaka, a data-driven and full-stack engineer based in India.<br>
 
 I can design, create logic, envision, and build things.<br>
@@ -53,6 +60,7 @@ If an idea pops into my mind, chances are I'll build it and ship it.<br>
 My main tech stack:Python, Node.js, HTML, CSS, JavaScript, MySQL.<br>
 
 Favorite tools: VSCode, Google Collab, Canva.
+
 ---
 
 <!--
