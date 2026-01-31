@@ -2,27 +2,28 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=LIANNAKA&color=blue)
 
-💻 My Website : [yourwebsite.com](https://liannakadadi-portfolio.web.app/)
-📫How to reach me [youremail@gmail.com](liannaka.dadi10@gmail.com)
+💻 My Website: [liannakadadi-portfolio.web.app](https://liannakadadi-portfolio.web.app/)  
+📫 How to reach me: [liannaka.dadi10@gmail.com](mailto:liannaka.dadi10@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/username](https://www.linkedin.com/in/liannaka-dadi-59972821b/)
 
 
 ### Languages and Tools:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+</p>
 
 
-I'm Liannaka, a data driven and full stack engineer based in India.
+<p align="center">
+I'm Liannaka, a data-driven and full-stack engineer based in India.<br>
+I can design, create logic, envision, and build things.<br>
+If an idea pops into my mind, chances are I'll build it and ship it.<br>
+My main tech stack: Node.js, HTML, CSS, JavaScript, MySQL.<br>
+Favorite tools: VSCode, Canva.
+</p>
 
-I can design, create logic, envision and build things.
-
-If an idea pops into my mind, chances are I'll build it and ship it.
-
-My main tech stack is node.js, html, css, javascript, mySQL. My favorite tools are vscode and canva.
-
-I've got a freelance project to work upon, with a satisfied client.
 <!--
 **LIANNAKA/Liannaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
