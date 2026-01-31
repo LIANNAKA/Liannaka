@@ -7,6 +7,31 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liannaka-dadi-59972821b/)
 
+### 📫 Connect with Me
+
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/liannaka-dadi-59972821b/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <!-- Email -->
+  <a href="mailto:liannaka.dadi10@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <!-- Portfolio Website -->
+  <a href="https://liannakadadi-portfolio.web.app/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Portfolio"/>
+  </a>
+  &nbsp;&nbsp;
+  <!-- GitHub -->
+  <a href="https://github.com/LIANNAKA" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  </a>
+</p>
+
+
 
 <p align="center">
   <!-- C -->
