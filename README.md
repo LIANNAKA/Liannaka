@@ -1,6 +1,5 @@
-<center>
-# 👋 Hi, I'm Liannaka
-</center>
+<h1 align="center">👋 Hi, I'm Liannaka</h1>
+
 ![Profile views](https://komarev.com/ghpvc/?username=LIANNAKA&color=blue)
 
 💻 My Website : [yourwebsite.com](https://liannakadadi-portfolio.web.app/)
