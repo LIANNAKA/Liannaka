@@ -1,4 +1,5 @@
 <h1 align="center">👋 Hi, I'm Liannaka</h1>
+Data science with full stack development expertise
 
 ![Profile views](https://komarev.com/ghpvc/?username=LIANNAKA&color=blue)
 
