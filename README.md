@@ -1,18 +1,15 @@
 <h1 align="center">👋 Hi, I'm Liannaka</h1>
-Data science with full stack development expertise
+<h2 align="center">Data science with full stack development expertise</h2>
 
 ![Profile views](https://komarev.com/ghpvc/?username=LIANNAKA&color=blue)
 
-<p align="center">
+<p>
   💻 My Website: <a href="https://liannakadadi-portfolio.web.app/">liannakadadi-portfolio.web.app</a><br>
   📫 How to reach me: <a href="mailto:liannaka.dadi10@gmail.com">liannaka.dadi10@gmail.com</a>
 </p>
+📫 Connect with Me
 
----
-
-### 📫 Connect with Me
-
-<p align="center">
+<p>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/liannaka-dadi-59972821b/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
@@ -26,7 +23,7 @@ Data science with full stack development expertise
 I'm Liannaka, a data-driven and full-stack engineer based in India.<br>
 I can design, create logic, envision, and build things.<br>
 If an idea pops into my mind, chances are I'll build it and ship it.<br>
-My main tech stack: Python, Node.js, HTML, CSS, JavaScript, MySQL.<br>
+My main tech stack: Python, React, Node.js, HTML, CSS, JavaScript, MySQL.<br>
 Favorite tools: VSCode, Google Colab, Canva.
 </p>
 
